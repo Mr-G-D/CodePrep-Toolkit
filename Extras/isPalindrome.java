@@ -1,4 +1,5 @@
-    public boolean isPalindrome(String s) {
+public class isPalindrome {
+    public static boolean main(String s) {
         s = s.replaceAll("[^a-zA-Z0-9]", "");
 
         s = s.toLowerCase();
@@ -7,10 +8,11 @@
         while(i<j){
             if (s.charAt(i) != s.charAt(j)){
                 return false;
-            }     
+            }
             i++;
-            j--;     
+            j--;
         }
 
         return true;
     }
+}
