@@ -1,4 +1,4 @@
-# 🚀 Tech Interview Mastery: Algorithms & Problem Solving Hub
+# 🚀 CodePrep Toolkit: Algorithms & Problem Solving Hub
 
 Welcome to **Tech Interview Mastery**, your all-in-one resource for mastering algorithms, data structures, and technical interview problem-solving. This repository features **handpicked algorithm** and **LeetCode problem solutions** sourced from **Blind 75**, **NeetCode 150/175**, and other **popular coding interview lists**.
 
