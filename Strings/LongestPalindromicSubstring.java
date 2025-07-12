@@ -1,3 +1,7 @@
+package Strings;
+
+public class LongestPalindromicSubstring{
+
     public boolean checkPalindrome(String s, int i, int j){
         while(i<j){
             if(s.charAt(i) != s.charAt(j)){
@@ -23,10 +27,13 @@
                         if(result.length() < j+1-i){
                             result = s.substring(i, j+1);
                         }
-                        
+
                     }
                 }
             }
         }
         return result;
     }
+
+}
+
