@@ -1,33 +1,65 @@
-# Blind 75 LeetCode: Blind 75 and Bonus Extras
+# 🚀 CodePrep Toolkit: Algorithms & Problem Solving Hub
 
-Welcome to Tech Interview Mastery, your ultimate resource for mastering technical interviews and problem-solving skills! This repository features a curated collection of problem-solving challenges, including the renowned Blind 75 list from LeetCode, supplemented with bonus extras to further enhance your preparation.
+Welcome to **Tech Interview Mastery**, your all-in-one resource for mastering algorithms, data structures, and technical interview problem-solving. This repository features **handpicked algorithm** and **LeetCode problem solutions** sourced from **Blind 75**, **NeetCode 150/175**, and other **popular coding interview lists**.
 
-## Key Features
+Whether you're preparing for FAANG-level interviews or just want to level up your algorithmic thinking, this project is designed to help you succeed.
 
-- **Blind 75 from LeetCode:** Dive into the famous Blind 75 curated list of interview questions from LeetCode, meticulously selected to cover a wide range of topics and concepts commonly encountered in technical interviews.
+---
 
-- **Bonus Extras:** In addition to the Blind 75, explore a variety of extra questions and challenges sourced from LeetCode. These extras cater to developers of all levels and provide opportunities to delve deeper into specific areas of interest.
+## 🔑 Key Features
 
-- **Language-Specific Solutions:** Each question comes with solutions in its most suitable programming language, including C++, Java, and Python. Explore solutions in multiple languages to broaden your understanding.
+- ### 🧠 Essential Algorithms Mastery  
+  Learn and revisit key algorithms and techniques that form the backbone of coding interviews—like Binary Search, Sliding Window, Recursion, Dynamic Programming, Union-Find, Backtracking, and more.
 
-- **Week-wise Segregation:** The repository is organized into weeks, with each week focusing on a different data structure or algorithmic concept. This structured approach allows for a systematic and comprehensive study of key topics.
+- ### 📚 Popular LeetCode Problem Solutions  
+  Solve and understand top interview problems sourced from:
+  - **Blind 75**
+  - **NeetCode 150/175**
+  - **Top Interview 150**
+  - Additional **curated challenges** based on recurring patterns in real-world interviews.
 
-## Getting Started
+- ### 💡 Language-Specific Solutions  
+  Solutions are provided in **Python**, **Java**, and **C++**, with an emphasis on readability and clarity. This gives you flexibility and deeper understanding across languages.
 
-To get started with Tech Interview Mastery, simply clone or download the repository to your local machine. From there, you can explore the solutions, study the explanations, and test your understanding by attempting the questions on your own.
+- ### 📅 Week-by-Week Study Plan  
+  The repository is organized by **topics**, allowing for a structured and focused approach to mastering problem-solving techniques.
 
-## Contributing
+---
 
-Contributions to Tech Interview Mastery are highly encouraged! If you have additional questions, alternative solutions, or improvements to existing solutions, feel free to submit a pull request. Together, we can make this repository an even more valuable resource for the tech community.
+## 🚀 Getting Started
 
-## Feedback and Support
+1. **Clone or download** this repository.
+2. Browse through the `algorithms/` and other folders to explore curated topics and problems.
+3. Practice each problem on [LeetCode](https://leetcode.com/u/dinesh_kumar_00/) for hands-on experience.
+4. Read the code and detailed explanations to reinforce your understanding.
 
-Your feedback is invaluable in helping us improve Tech Interview Mastery. If you have any questions, suggestions, or concerns, please don't hesitate to reach out via GitHub issues or email.
+---
 
-## Let's Connect
+## 🤝 Contributing
 
-Stay updated on the latest additions and updates to Tech Interview Mastery by following us on GitHub. You can also connect with me on LinkedIn for more tech interview tips and resources.
+We welcome contributions from the community! If you have:
+- New algorithm  
+- Optimized or alternate solutions  
+- Additional must-do interview problems  
 
-## Happy Coding!
+Feel free to open a pull request. Let’s build a comprehensive and helpful resource together!
 
-Get ready to supercharge your tech interview preparation and unlock new career opportunities with Tech Interview Mastery. Let's embark on this journey together and take your coding skills to the next level!
+---
+
+## 📬 Feedback & Support
+
+Found a bug? Have a suggestion? Reach out via GitHub Issues or connect with me directly.
+
+---
+
+## 🔗 Let's Connect
+
+Follow me, and feel free to connect on **[LinkedIn](https://www.linkedin.com/in/dinesh-kumar-5273a8195/)** for more tech content, and career resources.
+
+---
+
+## 🙌 Happy Coding!
+
+Join me on a journey to **master algorithms and crush technical interviews**. Whether you're a beginner or brushing up for your next big role, Tech Interview Mastery is your go-to guide.
+
+Let’s level up together. 🚀
